@@ -1,0 +1,22 @@
+{
+  "name": "ejercicio4",
+  "version": "0.0.1",
+  "description": "Proyecto node para la realización del ejercicio 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoniosp7/Ejercicios-CC.git"
+  },
+  "author": "Antonio Manuel (https://github.com/antoniosp7)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antoniosp7/Ejercicios-CC/issues"
+  },
+  "homepage": "https://github.com/antoniosp7/Ejercicios-CC#readme",
+  "dependencies": {
+    "mocha": "^8.2.0"
+  }
+}
